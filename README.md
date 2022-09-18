@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 - 👀 I am Naitik Kapadia, a Tech Enthusiast
 - 🎓 I am a second year student at VIT Vellore (B.Tech CSE).
 - 🌱 I’m currently learning NextJS.
+- 🍛 I love curry.
 
 ## You can find me on:
 <a href = "mailto:naitikjkapadia@gmail.com?subject='Hey there, nice connecting with you'" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
