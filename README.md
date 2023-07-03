@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 ## About Me 👨🏻‍💻
 
 - 👀 I am Naitik Kapadia, a Tech Enthusiast
-- 🎓 I am a second year student at VIT Vellore (B.Tech CSE).
-- 🌱 I’m currently learning ExpressJS.
+- 🎓 I am a third year student at VIT Vellore (B.Tech CSE).
+- 🌱 I’m currently exploring Svelte.
 - 🐱 Meow Meow.
 - 🤖 My friend calls me ROBOT. 
 
