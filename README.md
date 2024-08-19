@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 👀 I am Naitik Kapadia, a Tech Enthusiast
 - 🎓 I am a third year student at VIT Vellore (B.Tech CSE).
-- 🌱 I’m currently exploring Svelte.
+- 🌱 I’m currently exploring Concurrent Programming.
 - 🐱 Meow Meow.
 - 🤖 My friend calls me ROBOT. 
 
